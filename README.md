@@ -73,17 +73,16 @@ Create a **real-time, automated AUX governance dashboard** that:
 ## 📌 Notes
 
 - This project was designed solely for **internal use at Amazon** and integrates with secure internal APIs.
-- All frontend JavaScript logic was **developed using GenAI tools** (ChatGPT) to speed up automation scripting and enhance DOM interactions.
+- All frontend JavaScript logic was **developed using GenAI tools** (AmazonQ) to speed up automation scripting and enhance DOM interactions.
 
 ---
 
 ## 🙋 Author
 
-**[Your Full Name]**  
+**[Akhil Thyadi]**  
 Observability & DevOps Engineer at Amazon  
-Email: [Your Email]  
-LinkedIn: [Your LinkedIn Profile]  
-GitHub: [Your GitHub Profile (if applicable)]
+Email: [thakhilk@amazon.com]  
+LinkedIn: [https://www.linkedin.com/in/akhil-thyadi/]  
 
 ---
 
