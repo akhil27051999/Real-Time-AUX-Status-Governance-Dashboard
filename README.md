@@ -4,7 +4,8 @@
 
 The **Real-Time AUX Status Governance Dashboard** is a web-based internal monitoring tool built to track AUX (Auxiliary) status compliance across multiple operational regions. Designed specifically for large-scale logistics environments, the dashboard helps ensure workforce adherence by identifying anomalies and surfacing real-time insights that were previously only available through manual tracking.
 
----
+
+
 
 ## ❓ Problem Statement
 
@@ -15,9 +16,9 @@ In high-paced operational environments such as Amazon’s transportation network
 - **Manual efforts** to compile and review AUX compliance reports.
 - **Lack of visibility** across regional teams and shift timelines.
 
+
 These gaps led to SLA violations, inefficiencies, and reduced accountability.
 
----
 
 ## 🎯 Objective
 
@@ -29,7 +30,6 @@ Create a **real-time, automated AUX governance dashboard** that:
 - Presents a clean, interactive UI for stakeholders.
 - Reduces manual effort and improves adherence tracking.
 
----
 
 ## 🛠️ Features
 
@@ -39,7 +39,6 @@ Create a **real-time, automated AUX governance dashboard** that:
 - 📊 **Dashboard UI**: Interactive JavaScript-based frontend with sorting, filtering, and highlighting.
 - 🤖 **GenAI Integration**: JavaScript logic for frontend automation was developed and refined using **ChatGPT** to enhance development speed and accuracy.
 
----
 
 ## 🧱 Tech Stack
 
@@ -51,7 +50,6 @@ Create a **real-time, automated AUX governance dashboard** that:
 | **Alerting**  | Internal tools (e.g., Slack, Chime)       |
 | **Hosting**   | Internal Amazon environment               |
 
----
 
 ## 📈 Impact
 
@@ -61,21 +59,18 @@ Create a **real-time, automated AUX governance dashboard** that:
 - Improved workforce productivity and SLA adherence.
 - Helped standardize compliance visibility across the org.
 
----
 
 ## 🏆 Recognition
 
 - Featured as a top-performing internal initiative in Amazon's transportation analytics domain.
 - Received continuous **leadership recognition** and appreciation in performance reviews (2021–2024).
 
----
 
 ## 📌 Notes
 
 - This project was designed solely for **internal use at Amazon** and integrates with secure internal APIs.
 - All frontend JavaScript logic was **developed using GenAI tools** (AmazonQ) to speed up automation scripting and enhance DOM interactions.
 
----
 
 ## 🙋 Author
 
