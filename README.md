@@ -55,11 +55,11 @@ Create a **real-time, automated AUX governance dashboard** that:
 
 ## 📈 Impact
 
-- ✅ Reduced AUX non-compliance incidents by **30%**.
-- ✅ Eliminated **50%+ manual monitoring effort**.
-- ✅ Enabled regional managers to act on AUX issues **proactively**.
-- ✅ Improved workforce productivity and SLA adherence.
-- ✅ Helped standardize compliance visibility across the org.
+- Reduced AUX non-compliance incidents by **30%**.
+- Eliminated **50%+ manual monitoring effort**.
+- Enabled regional managers to act on AUX issues **proactively**.
+- Improved workforce productivity and SLA adherence.
+- Helped standardize compliance visibility across the org.
 
 ---
 
