@@ -79,5 +79,3 @@ Observability & DevOps Engineer at Amazon
 Email: [thakhilk@amazon.com]  
 LinkedIn: [https://www.linkedin.com/in/akhil-thyadi/]  
 
----
-
