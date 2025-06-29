@@ -76,6 +76,5 @@ Create a **real-time, automated AUX governance dashboard** that:
 
 **[Akhil Thyadi]**  
 Observability & DevOps Engineer at Amazon  
-Email: [thakhilk@amazon.com]  
 LinkedIn: [https://www.linkedin.com/in/akhil-thyadi/]  
 
